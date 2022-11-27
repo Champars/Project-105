@@ -1,0 +1,16 @@
+#label {
+    font-size: large;
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    border-width: 3px;
+}
+
+body {
+    background-color: darkred;
+    text-align: center;
+}
+
+h3 {
+    border-width: 1px;
+    background-color: bisque;
+}
